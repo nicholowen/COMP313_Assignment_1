@@ -1,11 +1,14 @@
 # COMP313 Assignment 1
 ## nicholowen 300130635
 
-## A simple 2D side scroller.
+## Magic Hills.
+
+Magic Hills is a simple 2D side scroller with a pixel art style, using free assets found on the internet.
+It is named after the tileset I found in CraftPix.net.
 
 ### What is the main action in the game?
 
-The main action of this game is movement and collisions.
+The main action of this game explores movement and collisions.
 I have created a jumping character with a 'shift-hold' function which changes the speed and animation of the character.
 I have also produced an npc that will walk to the character when in range, and attack when close up to the player.
 
