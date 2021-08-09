@@ -1,4 +1,5 @@
-# COMP313_Assignment_1
+# COMP313 Assignment 1
+## nicholowen 300130635
 
 ## A simple 2D side scroller.
 
